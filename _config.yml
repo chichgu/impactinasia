@@ -1,0 +1,40 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://impactinasia.com
+title: Impact in Asia
+email: impactinasia@gmail.com
+author: Impact in Asia
+slogan: How Asia is making a difference
+description: > # "Write an awesome description for your new site here. 
+ How Asia is making a difference. Join now to make a difference.
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+baseurl: /impactinasia
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/impactinasia
+  - title: facebook
+    url: http://facebook.com/ImpactInAsia
+
+# ----------------------- #
+#  Type of actors         #
+# ----------------------- #
+
+actors:
+  - title: organization 
+    url:
+  - title: individual 
+    url: 
