@@ -1,0 +1,13 @@
+---
+layout: default
+img: newspaper.jpg
+category: Services
+title: Inspire
+description: |
+anchor_id: inspire
+---
+
+Let's get the stories out. <strong>Impact journalism</strong> is about celebrating hope, change and innovation. 
+
+Find out more about what people in Asia do to make a difference, not only locally but also globally. Learn from them and get inspired.    
+
