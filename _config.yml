@@ -30,13 +30,27 @@ social:
     url: http://facebook.com/ImpactInAsia
 
 # ----------------------- #
+
+# ----------------------- #
 #  Type of actors         #
 # ----------------------- #
 
 actors:
-  - title: group
-    label: organization
-    url:
   - title: user
     label: individual
-    url: 
+    url: \#individual
+  - title: group
+    label: organization
+    url: \#organization
+
+services:
+  - title: newspaper-o
+    label: inspire
+    url: \#inspire_service
+  - title: cogs
+    label: connect
+    url: \#connect_service
+  - title: play 
+    label: take action 
+    url: \#act_service
+
