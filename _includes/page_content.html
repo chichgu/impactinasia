@@ -1,6 +1,7 @@
 <section id="services">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
+{% if post.category == 'Services' %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a" id="{{ post.anchor_id }}">
@@ -56,5 +57,6 @@
     </div>
     <!-- /.content-section-b -->
     {% endif %}
+{% endif %}
 {% endfor %}
 </section>

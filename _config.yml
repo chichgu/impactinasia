@@ -9,6 +9,7 @@ author: Impact in Asia
 slogan: How Asia is making a difference
 description: > # "Write an awesome description for your new site here. 
  How Asia is making a difference. Join now to make a difference.
+favicon: logo_iia.png
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
@@ -38,19 +39,19 @@ social:
 actors:
   - title: user
     label: individual
-    url: \#individual
+    url:  http://goo.gl/forms/TEPAC7Rcqz
   - title: group
     label: organization
-    url: \#organization
+    url: http://goo.gl/forms/6Y71FxjnDB 
 
 services:
   - title: newspaper-o
     label: inspire
-    url: \#inspire_service
+    url: \#inspire
   - title: cogs
     label: connect
-    url: \#connect_service
+    url: \#connect
   - title: play 
     label: take action 
-    url: \#act_service
+    url: \#act
 
