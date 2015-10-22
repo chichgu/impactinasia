@@ -14,7 +14,7 @@ favicon: logo_iia.png
 #    Jekyll & Plugins     #
 # ----------------------- #
 
-baseurl: /impactinasia
+baseurl: 
 
 # Build settings
 markdown: kramdown
