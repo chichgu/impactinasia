@@ -7,6 +7,6 @@ description: |
 anchor_id: connect
 ---
 
-Let's connect the dots. Get access to the <strong>knowledge</strong> and to the people you need to make impact. 
+Let's connect the dots. Get access to the <strong>knowledge</strong> and to the people you need to make an impact. 
 
 Find out more about the <strong>resources</strong> already made available by leading organizations. Take part in the <strong>events and community-led initiatives</strong> that are emerging in Asia.   
