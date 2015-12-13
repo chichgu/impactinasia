@@ -1,0 +1,113 @@
+---
+layout: default
+---
+
+<div class="page-lead" style="background-image:url(/images/banner-bg.jpg)">
+      <div class="wrap page-lead-content">
+        <h1>{{ page.title }}</h1>
+        <h2>{{ page.subtitle }}</h2>
+	<br/>
+	<a href="{{ site.url }}/impact-map/" class="btn-inverse"><i class="fa fa-group fa-fw"></i>&nbsp;Register your organization</a>
+	&nbsp; &nbsp;
+	<a href="{{ site.url }}/impact-makers/" class="btn-inverse"><i class="fa fa-user fa-fw"></i>&nbsp;Join as an impact maker</a>
+      </div><!-- /.page-lead-content -->
+</div>
+
+<div class="page-sublead">
+      <div id="about" role="about">
+        <div class="wrap">
+          <div class="page-title">
+            <h1>About</h1>
+<img src="/images/logo_iia.png" width="100" height="100">
+<p class="post-excerpt">Impact in Asia connects those who want to make a difference in Asia. We turn those <strong>connections into actions</strong>, from being the change we want to see to choosing to work with organizations or initiatives that seek to make a positive impact.</p>
+  <p class="post-excerpt">Our mission is to inspire talents in Asia to follow their calling and <strong>seize the opportunities</strong> to address today's most pressing challenges. Those challenges are the 17 UN global goals. Amazing causes need passionate people.</p>
+          </div>
+        </div>
+      </div>
+</div>
+
+<div class="page-sublead">
+      <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+
+
+      <div id="main" role="main">
+        <div class="wrap">
+          <div class="page-title">
+            <h1></h1>
+            
+          </div>
+          <div class="archive-wrap">
+            <div class="page-content">
+              <div class="tiles">
+
+<div class="tile-span-4">
+  <h2 class="post-title">Inspire</h2>
+  <br/>
+  <a href="/stories/"><i class="fa fa-newspaper-o fa-3x"></i></a>
+  <p class="post-excerpt">Let’s get the stories out. <strong>Impact journalism</strong> is about celebrating hope, change and innovation.</p>
+  <p class="post-excerpt">Find out more about what people do to make a difference in Asia, not only locally but also globally. Learn from them and get inspired.</p>
+</div><!-- /.tile -->
+<div class="tile-span-4">
+  <h2 class="post-title">Connect</h2>
+  <br/>
+  <a href="/ressources/"><i class="fa fa-cogs fa-3x"></i></a>
+  <p class="post-excerpt">Let’s connect the dots. Get access to the <strong>knowledge</strong> and to the people you need to make an impact.</p>
+  <p class="post-excerpt">Find out more about the <strong>resources</strong> already made available by leading organizations. Take part in the <strong>events and community-led initiatives</strong> that are emerging in Asia.</p>
+</div><!-- /.tile -->
+<div class="tile-span-4">
+  <h2 class="post-title">Take action</h2>
+  <br/>
+  <a href="/openings/"><i class="fa fa-play fa-3x"></i></a>
+  <p class="post-excerpt">Are you ready to commit time to work on the challenges you care about? We will give you access to a wide range of opportunities from <strong>volunteering to full-time jobs</strong>.</p>
+  <p class="post-excerpt">Choose to climb up the <strong>impact ladder</strong> and make the difference!</p>
+</div><!-- /.tile -->
+
+</div>
+<!-- /.tiles -->
+
+            </div><!-- /.page-content -->
+          </div><!-- /.archive-wrap -->
+        </div><!-- /.wrap -->
+      </div><!-- /#main -->
+</div>
+
+<div class="page-sublead">
+      <div id="partner" role="partner">
+        <div class="wrap">
+          <div class="page-title">
+            <h1>Our Partners</h1>
+            {% for partner in site.data.partners %}
+            <div class="tile-span-2">
+             <a href="{{ partner.url }}">
+              <img src="{{ site.url }}/images/partners/{{partner.image}}" alt="{{ partner.name }}" class="teaser">
+             </a>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+</div>
+
+<div class="page-sublead">
+      <div id="join-us" role="join-us">
+        <div class="wrap">
+          <div class="page-title">
+            <h1>Work with us</h1>
+          </div>
+        </div>
+      </div>
+</div>
+
+<div class="page-lead" style="background-image:url(/images/banner-bg.jpg)">
+      <div id="contact" role="contact">
+        <div class="wrap">
+          <div class="page-title">
+	<br/><br/>
+	<a href="https://twitter.com/impactinasia" class="btn"><i class="fa fa-twitter fa-fw"></i>twitter</a>
+	<a href="http://facebook.com/ImpactInAsia" class="btn"><i class="fa fa-facebook fa-fw"></i>facebook</a>
+	<a href="mailto:impactinasia@gmail.com" class="btn"><i class="fa fa-envelope fa-fw"></i>email</a>
+        <br/><br/>  
+          </div>
+        </div>
+      </div>
+</div>

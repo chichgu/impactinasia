@@ -1,57 +1,36 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
+# Site wide configuration
 
-url: http://impactinasia.co
-title: Impact in Asia
-email: impactinasia@gmail.com
-author: Impact in Asia
-slogan: How Asia is making a difference
-description: > # "Write an awesome description for your new site here. 
- How Asia is making a difference. Join now to make a difference.
-favicon: logo_iia.png
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
+title: Impact In Asia
+description: Impact in Asia connects people who want to make a difference and have a positive impact in Asia.
+logo: impact_in_asia_120x120.png # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url: #http://www.impactinasia.co
 
-baseurl: 
+# Jekyll configuration
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
 
-social:
-  - title: twitter
-    url: https://twitter.com/impactinasia
-  - title: facebook
-    url: http://facebook.com/ImpactInAsia
+# Site owner
+owner:
+  name:
+  email: impactinasia@gmail.com
+  twitter: https://twitter.com/impactinasia
+  google:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: iia_logo.png # 160x160 px image for author byline
+  disqus-shortname:
 
-# ----------------------- #
 
-# ----------------------- #
-#  Type of actors         #
-# ----------------------- #
-
-actors:
-  - title: user
-    label: individual
-    url:  http://goo.gl/forms/TEPAC7Rcqz
-  - title: group
-    label: organization
-    url: http://goo.gl/forms/6Y71FxjnDB 
-
-services:
-  - title: newspaper-o
-    label: inspire
-    url: \#inspire
-  - title: cogs
-    label: connect
-    url: \#connect
-  - title: play 
-    label: take action 
-    url: \#act
-
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

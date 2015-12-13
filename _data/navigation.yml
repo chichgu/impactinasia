@@ -1,0 +1,26 @@
+# Site navigation links
+
+- title: Map
+  url: /impact-map/
+  excerpt: A visual map of impactful organizations. Add yours!
+  image: impact-map.png
+
+- title: Impact makers
+  url: /impact-makers/
+  excerpt: Who are the impact makers? You are!
+  image: nametag.jpg
+
+- title: Stories 
+  url: /stories/
+  excerpt: Wonder how others do it? 
+  image: newspaper.jpg
+
+- title: Ressources 
+  url: /ressources/
+  excerpt: Don't know where to start or where to go?
+  image: knowledge.jpg
+
+- title: Openings 
+  url: /openings/
+  excerpt: Looking for something meaningful and purposeful? 
+  image: ladder.jpg

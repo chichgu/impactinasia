@@ -1,0 +1,13 @@
+# Our partners section
+# images are  expected to be in /images/partners/
+
+- name: LIN Center
+  url: http://linvn.org
+  image: logo_lin_en.png
+  description:
+
+- name: France Volontairees 
+  url: https://www.france-volontaires.org/ASIE
+  image: logo_france_volontaires.png
+  description:
+
