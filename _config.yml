@@ -22,15 +22,16 @@ gems:
 
 # Site owner
 owner:
-  name:
+  name: Impact in Asia
   email: impactinasia@gmail.com
   twitter: https://twitter.com/impactinasia
   google:
     ad-client:
     ad-slot:
-  bio:
-  avatar: iia_logo.png # 160x160 px image for author byline
+  bio: We connect those who want to make a difference in Asia and turn connections into actions. 
+  avatar: impact_in_asia_160x160.png # 160x160 px image for author byline
   disqus-shortname:
+  web: www.impactinasia.co
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
