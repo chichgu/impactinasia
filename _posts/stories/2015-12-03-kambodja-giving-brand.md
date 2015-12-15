@@ -6,7 +6,7 @@ tag: #cambodia #fashion #fairtrade
 image:
   teaser: stories/kambodja/teaser.jpg #recommended 400x250
   feature: stories/kambodja/feature.jpg #recommended 1024x256
-  credit: Lucile Rogissart #name of the person or site you want to credit
+  credit: KAMBODJA Giving Brand #name of the person or site you want to credit
   creditlink: #url to their site or licensing
 ---
 
