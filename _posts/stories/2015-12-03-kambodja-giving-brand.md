@@ -1,8 +1,8 @@
 ---
 layout: article
-title: KAMBODJA Giving Brand, the brand that gives back 
+title: "KAMBODJA Giving Brand: the brand that gives back" 
 categories: stories
-tag: #cambodia #fashion #fairtrade
+tag: #cambodia #fashion #fairtrade #sustainableeconomy #humandignity #GG_NoPoverty #GG_ReducedInequalities #GG_DecentWorkAndEconomicGrowth #IndustryInnovationAndInfrastructure #ResponsibleConsumptionAndProduction
 image:
   teaser: stories/kambodja/teaser.jpg #recommended 400x250
   feature: stories/kambodja/feature.jpg #recommended 1024x256
