@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Papafood, from parenthood to entrepreneurship
+title: "Papafood: from parenthood to entrepreneurship"
 categories: stories
-tag: #vietnam #nutrition #children
+tag: #vietnam #GG_GoodHealthAndWellBeing #health #babyfood #food #baby #children #nutrition  
 image:
   teaser: stories/papafood/teaser.jpg #recommended 400x250
   feature: stories/papafood/feature.jpg #recommended 1024x256
