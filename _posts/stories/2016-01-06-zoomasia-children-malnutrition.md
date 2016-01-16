@@ -14,13 +14,13 @@ Did you think Africa was the top continent affected by children undernutrition? 
 
 Due to Asia’s enormous diversity, the problem is not felt with the same intensity throughout the region. For example, stunting remains “of public health significance” (over 20%) in most East Asian countries, but is significantly higher in South Asia. The causes, however, stay consistent: not only scarcity in food supply, but mainly the lack of access to healthcare and sanitation, as well as nutrient-poor diet.
 
-<img src="/images/stories/children-malnutrition/Stunting-under-5.jpg">
+<img src="/images/stories/children-malnutrition/Stunting-under-5.png">
 
 If food scarcity has been mostly solved by an increase in production, nowadays, the concern is shifting from quantity to quality. For example, iron deficiency prevalence is over 90% among Asian children under 2 years old, which leads to widespread anemia (it affects 2 billion people worldwide). This is especially preoccupying when considering how crucial iron might be in children’s brain development. According to WHO, iron deficiency may have the overall heaviest toll relative to other conditions, in terms of ill-health, premature deaths and earning losses. Solving it would have important benefits for personal health, and has the estimated potential to increase national productivity by 20%. 
  
 Beside these already known concerns, a modern one is currently emerging among Asian countries: obesity. In 2002, already six of the top 10 countries in obesity rate were Asian, and nowadays, about 5% of Asian children are obese. For example, in China, childhood obesity has multiplied by 40 times from  1985 to 2010. Unlike developed countries, this phenomenon is positively correlated with high income, because obesity is considered a symbol of well-being. 60% of the diabetic population already live in Asia, and WHO’s forecast is that there will be 2.5 times more in 2030.
 
-<img src="/images/stories/children-malnutrition/Obesity-and-overweight.jpg">
+<img src="/images/stories/children-malnutrition/Obesity-and-overweight.png">
 
 Will the trends go on? So far, hunger has been reduced mostly thanks to productivity gains, and malnutrition has been diminished through higher living standards. Nevertheless, climate change might prevent Asia from satisfying its growing food demand. According to the Asian Development Bank report, we can expect a yields reduction of 14%-20% for rice, 32%-44% for wheat, 2%-5% for maize and 9%-18% for soybean by 2050. This means that unless adaptation initiatives are given serious importance, the Asian progress in fighting malnutrition may start to reverse. 
 
