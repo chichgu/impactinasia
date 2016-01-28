@@ -1,5 +1,5 @@
 ---
-layout: categorypage
+layout: resourcepage 
 categories: resources
 category: resources-support
 title: Supporting organizations
