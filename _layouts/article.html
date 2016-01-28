@@ -15,6 +15,8 @@ layout: default
 		{% include breadcrumbs.html %}
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
+  		{% if page.date %}<p class="entry-date date published"><time datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>{% endif %}
+  		{% if page.author %} | {{ page.author }} {% endif %}</p>
 		</div>
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">

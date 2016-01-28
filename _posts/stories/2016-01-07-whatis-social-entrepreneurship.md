@@ -3,14 +3,16 @@ layout: article
 title: "What is: Social entrepreneurship?"
 categories: stories
 tag: #socialentrepreneurship #sustainableeconomy #entrepreneurship #GG_IndustryInnovationAndInfrastructure #GG_ResponsibleConsumptionAndProduction #innovation #socialbusiness #socialresponsibility
+author: Lucile Rogissart
 image:
   teaser: stories/social-entrepreneurship/teaser.jpg #recommended 400x250
   feature: stories/social-entrepreneurship/feature.jpg #recommended 1024x256
-  credit: Acumen,  #name of the person or site you want to credit
+  description: "From left to right: Muhammad Yunus, Jacqueline Novogratz, Jim Fruchterman, Jane Chen"
+  credit: Acumen #name of the person or site you want to credit
   creditlink: https://www.flickr.com/photos/unido/18417613721/in/photolist-u4v5Ua-t7vptX-u4uDve-bwrt3z-7NkjpC-93z2Um-eYkq5p-9NzW1H-e9KGnq-aUZzXc-bLNpEB-bLNqMi-93uBkT-7EswRe-bpYL8L-bpYKYd-93z3qm-93z2yE-5cCUc4-fjMbw7-93ydpE-dgSQpG-dgSQjd-dgSQf7-qw7sGc-dgSPMe-7xwPdD-8V1n2U-93vcrP-85ALCK-93vbAe-93ygtw-2jVopq-93uz7X-bpYLj9-cHtU6d-nYbRGQ-ofosm4-8YYfMf-8YYghq-8YUAQp-8YXE7S-8YYg1W-bpYLo7-bCTHqP-bpYLf9-d63iLf-5ZnhVa-nYbE4Q-nYbNpZ #url to their site or licensing
 ---
 
-What do [Muhammad Yunus](http://www.grameen-info.org/grameen-founder-muhammad-yunus/) (Grameen bank, father of microcredit), [Jim Fruchterman](http://benetech.org/about-us/the-benetech-story/) (Benetech), [Jane Chen](http://embraceglobal.org/who-we-are/our-story/) (Embrace), or Jacqueline [Novogratz](http://acumen.org/people/board/jacqueline-novogratz/) (Acumen) have in common? They are all major actors in growing field of what we call “social entrepreneurship”. But what is it actually?
+What do [Muhammad Yunus](http://www.grameen-info.org/grameen-founder-muhammad-yunus/) (Grameen bank, father of microcredit), [Jim Fruchterman](http://benetech.org/about-us/the-benetech-story/) (Benetech), [Jane Chen](http://embraceglobal.org/who-we-are/our-story/) (Embrace), or [Jacqueline Novogratz](http://acumen.org/people/board/jacqueline-novogratz/) (Acumen) have in common? They are all major actors in growing field of what we call “social entrepreneurship”. But what is it actually?
 
 <h3>One definition?</h3>
 
