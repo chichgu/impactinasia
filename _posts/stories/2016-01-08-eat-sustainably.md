@@ -3,9 +3,11 @@ layout: article
 title: "Eat sustainably"
 categories: stories
 tag: #GG_NoPoverty #GG_ZeroHunger #GG_DecentWorkAndEconomicGrowth #GG_ReducedInequalities #GG_ResponsibleConsumptionAndProduction #food #environment #sustainableeconomy #greeneconomy #agriculture #foodsystem #fairtrade 
+author: Lucile Rogissart
 image:
   teaser: stories/eat-sustainably/teaser.jpg #recommended 400x250
   feature: stories/eat-sustainably/feature.jpg #recommended 1024x256
+  description: A market in Hoi Anh, Vietnam
   credit: Lucile Rogissart #name of the person or site you want to credit
   creditlink:  #url to their site or licensing
 ---
