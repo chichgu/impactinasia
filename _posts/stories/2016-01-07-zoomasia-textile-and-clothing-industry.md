@@ -3,11 +3,13 @@ layout: article
 title: "Zoom Asia: Textile and clothing industry"
 categories: stories
 tag: #asia #GG_GoodHealthAndWellBeing #GG_DecentWorkAndEconomicGrowth #GG_IndustryInnovationAndInfrastructure #GG_ReducedInequalities #GG_ResponsibleConsumptionAndProduction #GG_ClimateAction #garment #textile #clothes #humanrights #laborrights
+author: Lucile Rogissart
 image:
   teaser: stories/textile-and-clothing/teaser.jpg #recommended 400x250
   feature: stories/textile-and-clothing/feature.jpg #recommended 1024x256
-  credit: Lucile Rogissart #name of the person or site you want to credit
-  creditlink: #url to their site or licensing
+  description: A view inside Tos Gamex company in Bien Hoa, Vietnam
+  credit: UNIDO #name of the person or site you want to credit
+  creditlink: https://www.flickr.com/photos/unido/18417613721/in/photolist-u4v5Ua-t7vptX-u4uDve-bwrt3z-7NkjpC-93z2Um-eYkq5p-9NzW1H-e9KGnq-aUZzXc-bLNpEB-bLNqMi-93uBkT-7EswRe-bpYL8L-bpYKYd-93z3qm-93z2yE-5cCUc4-fjMbw7-93ydpE-dgSQpG-dgSQjd-dgSQf7-qw7sGc-dgSPMe-7xwPdD-8V1n2U-93vcrP-85ALCK-93vbAe-93ygtw-2jVopq-93uz7X-bpYLj9-cHtU6d-nYbRGQ-ofosm4-8YYfMf-8YYghq-8YUAQp-8YXE7S-8YYg1W-bpYLo7-bCTHqP-bpYLf9-d63iLf-5ZnhVa-nYbE4Q-nYbNpZ #url to their site or licensing
 ---
 
 Asia is the largest exporter of textile and clothes, with a share of 58.4% according to the World Trade Organization. The region started to build its leading position in the early 1990’s due to wages far below what they were in Europe, North America, and Japan. While the factories are once more following lower wages from China to countries like Bangladesh, Vietnam, and Cambodia (56% to 97% of growth in apparel exports between 2009 and 2012), the sector’s ethics do not seem to have changed one iota. 

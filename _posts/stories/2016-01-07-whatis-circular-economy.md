@@ -3,6 +3,7 @@ layout: article
 title: "What is: Collaborative economy?"
 categories: stories
 tag: #GG_IndustryInnovationAndInfrastructure #GG_ResponsibleConsumptionAndProduction #GG_DecentWorkAndEconomicGrowth #GG_SustainableCitiesAndCommunities #solidarity #share #sharingeconomy #sustainableeconomy
+author: Lucile Rogissart
 image:
   teaser: stories/collaborative-economy/teaser.jpg #recommended 400x250
   feature: stories/collaborative-economy/feature.jpg #recommended 1024x256

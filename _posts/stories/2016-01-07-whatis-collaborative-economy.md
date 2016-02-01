@@ -3,6 +3,7 @@ layout: article
 title: "What is: Circular economy?"
 categories: stories
 tag: #GG_IndustryInnovationAndInfrastructure #GG_ResponsibleConsumptionAndProduction #GG_DecentWorkAndEconomicGrowth #GG_SustainableCitiesAndCommunities #waste #zerowaste #reuse #recycle #greeneonomy #sustainableeconomy #reducewaste
+author: Lucile Rogissart
 image:
   teaser: stories/circular-economy/teaser.jpeg #recommended 400x250
   feature: stories/circular-economy/feature.jpeg #recommended 1024x256

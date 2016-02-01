@@ -2,10 +2,12 @@
 layout: article
 title: "Papafood: from parenthood to entrepreneurship"
 categories: stories
-tag: #vietnam #GG_GoodHealthAndWellBeing #health #babyfood #food #baby #children #nutrition  
+tag: #vietnam #GG_GoodHealthAndWellBeing #health #babyfood #food #baby #children #nutrition 
+author: Lucile Rogissart
 image:
   teaser: stories/papafood/teaser.jpg #recommended 400x250
   feature: stories/papafood/feature.jpg #recommended 1024x256
+  description: Dan Andrews and his daughter
   credit: Lucile Rogissart #name of the person or site you want to credit
   creditlink: #url to their site or licensing
 ---

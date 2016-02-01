@@ -14,23 +14,27 @@ image:
 
 What do [Muhammad Yunus](http://www.grameen-info.org/grameen-founder-muhammad-yunus/) (Grameen bank, father of microcredit), [Jane Chen](http://embraceglobal.org/who-we-are/our-story/) (Embrace), [Jim Fruchterman](http://benetech.org/about-us/the-benetech-story/) (Benetech), or [Jacqueline Novogratz](http://acumen.org/people/board/jacqueline-novogratz/) (Acumen) have in common? They are all major actors in growing field of what we call “social entrepreneurship”. But what is it actually?
 
+Often described as the intersection of business and NGO, one could grasp the idea of social enterprise by opposition to other types of organizations. Although, the boundaries of these models are far more blurred in reality. 
+
+<img src="/images/stories/social-entrepreneurship/schema-2.png">
+
 <h3>One definition?</h3>
 
-When 1800 young professionals from Mexico, Brazil, China, UK, US, and South Africa were asked the question, their most recurring answer (26%) was “an innovative business that sells a product or service and uses some profits to do as much good as possible socially/environmentally”. In other words: a philanthropist conventional company. This misunderstanding might come from an usually narrow conception of “social”, often associated to charity. 
+When 1800 young professionals from Mexico, Brazil, China, UK, US, and South Africa were asked the question, their most recurring answer (26%) was “an innovative business that sells a product or service and uses some profits to do as much good as possible socially/environmentally”. In other words, what we would call a socially responsible business. This misunderstanding might come from an usually narrow conception of “social”, often associated to charity. 
 
-Ashoka, Schwab and Skoll - the worldwide leading social businesses’ Foundations  - define it in a radically different way. To begin with, the three of them choose an individual-centered approach: they define the entrepreneur rather than the enterprise itself. Referring to its traditional Schumpeterian conception, they all describe him/her as an innovative person who detects an opportunity to sustainably change society for the better through business. 
+Ashoka, Schwab and Skoll - the worldwide leading social businesses’ Foundations  - define it in a radically different way. To begin with, the three of them choose an individual-centered approach: they define the entrepreneur rather than the enterprise itself. They all describe him/her as an innovative person who detects an opportunity to sustainably change society for the better through business. 
 
-Not only does this definition marginalize small scale and local companies, it also force an ex-post assessment of what is or isn’t a social enterprise. As the Stanford Social Innovation Review highlights, we only call “entrepreneurs” the ones that end up successful in fine, i.e. who manage to trigger a large scale systemic change. Moreover, Dacin, Dacin and Matear emphasize how this might lead to a lack of attention paid to the organization itself and its funding process. This is why many of the theoretical papers adopt the organization-centered approach.
+Some argue this forces an ex-post assessment of what is or is not a social enterprise. As the Stanford Social Innovation Review highlights, we only call “entrepreneurs” the ones who end up successful in fine, i.e. who manage to trigger a large scale systemic change. Moreover, Dacin, Dacin and Matear emphasize how this might lead to a lack of attention paid to the organization itself and its funding process. This is why many of the theoretical papers adopt the organization-centered approach.
 
 <h3>Embracing diversity?</h3>
 
-A social enterprise would then be defined as a sustainable business aiming to solve a social or environmental problem. But this methodology also faces several issues. First of all, it suggests the idea of a self-funded social activity, although we know how hybrid business models can be: does it stop to be a social enterprise as soon as it is incompletely self-funded? Then, how to mark out the boundaries of “social and environmental problems”? And should the purpose of solving them be prior to the economic sustainability and development of the business?
+A social enterprise would then be defined as a sustainable business aiming to solve a social or environmental problem. But this methodology also faces several issues. First of all, it fails to integrate hybrid business models: does it stop to be a social enterprise as soon as it receives donations? Then, how to mark out the boundaries of “social and environmental problems”? And should the purpose of solving them be prior to the economic sustainability and development of the business?
 
 In the Technology Innovation Management Review, S. Abu-Saifan offers a way to demarcate this domain through two axes: the purpose (non-profit vs. for-profit) and the economic sustainability.
 
 <img src="/images/stories/social-entrepreneurship/abu-saifan-theory.png">
 
-In the Stanford Social Innovation Review, R. L. Martin and S.Osberg distinguish social enterprise from social service provision and social activism through the nature of the action and its outcomes.
+In the Stanford Social Innovation Review, R. L. Martin and S.Osberg distinguish social enterprise from social service provision and social activism through the nature of the action and its outcomes. 
 
 <img src="/images/stories/social-entrepreneurship/stanford-theory.png">
 
