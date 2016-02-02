@@ -1,7 +1,7 @@
 ---
 layout: article
 title: iLeap TOMODACHI Social Innovation in Seattle
-categories: resources-academic
+categories: resources-training
 tag: #Tomodachi #iLeap #Seattle #US #UnitedStates #Japan #SocialEntrepreneurship #SocialInnovation #GG_DecentWorkAndEconomicGrowth #GG_ResponsibleConsumptionAndProduction
 image:
   teaser: resources/academic/tomodachi.png

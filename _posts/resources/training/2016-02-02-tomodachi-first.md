@@ -1,7 +1,7 @@
 ---
 layout: article
 title: TOMODACHI Food Innovation for Regional Sustainability (FIRST)
-categories: resources-academic
+categories: resources-training
 tag: #Tomodachi #iLeap #Seattle #US #UnitedStates #Japan #Food #SocialEntrepreneurship #GG_ZeroHunger #GG_DecentWorkAndEconomicGrowth #GG_ResponsibleConsumptionAndProduction
 image:
   teaser: resources/academic/tomodachi.png
