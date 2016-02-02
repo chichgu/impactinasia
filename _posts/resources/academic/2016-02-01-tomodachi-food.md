@@ -11,7 +11,7 @@ excerpt: |
  Duration: 2 weeks <br/>
 ---
 
-<img src="/images/resources/academic/tomodachi.jpg"/>
+<img src="/images/resources/academic/tomodachi.png"/>
 
 + Type: Exchange program
 + Location: Seattle, Washington
