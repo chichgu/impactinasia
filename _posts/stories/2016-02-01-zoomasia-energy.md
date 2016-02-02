@@ -28,7 +28,7 @@ The problem is, the current composition of Asia’s energy mix and the level of 
 
 <img src="/images/stories/energy/self-sufficiency.png">
 
-Then, why not invest massively in coal? It would be a good idea if it were not the very first greenhouse gas (GHG) emitter, with ⅓ of the global CO2 production. Quite unexpectedly, [Vietnam recently announced it will call off all its future coal projects](https://www.globalcitizen.org/en/content/vietnam-throws-out-coal-plans-commits-to-renewable/), optimize the existing ones and invest in renewables. Nevertheless, Asia’s current energy mix is very far from being sustainable, and forecasts are not very promising. Without any change of policy, Asia’s consumption of oil would double, gas triple, and coal use see a 82% increase by 2035, doubling CO2 emissions.
+Then, why not invest massively in coal? It would be a good idea if it were not **the very first greenhouse gas (GHG) emitter**, with ⅓ of the global CO2 production. Quite unexpectedly, [Vietnam recently announced it will call off all its future coal projects](https://www.globalcitizen.org/en/content/vietnam-throws-out-coal-plans-commits-to-renewable/), optimize the existing ones and invest in renewables. Nevertheless, Asia’s current energy mix is very far from being sustainable, and forecasts are not very promising. Without any change of policy, Asia’s consumption of oil would double, gas triple, and coal use see a 82% increase by 2035, doubling CO2 emissions.
 
 <img src="/images/stories/energy/energy-requirements.png">
 
