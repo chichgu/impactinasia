@@ -1,9 +1,12 @@
 ---
-layout: resourcepage
-categories: resources
-category: resources-training
-title: Training programs
-excerpt: Find out more about the trainings on social impact available to professionals in Asia.
-image:
-  teaser: /resources/training/teaser.jpg #recommended 400x250
+layout: archive
 ---
+
+<div class="tiles">
+{% for post in site.pages %}
+	{% if post.categories == 'resources' %}
+   	{% include post-grid.html %}
+   {% endif %}
+{% endfor %}
+</div>
+<!-- /.tiles -->
