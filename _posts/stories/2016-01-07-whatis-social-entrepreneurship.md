@@ -16,7 +16,7 @@ What do [Muhammad Yunus](http://www.grameen-info.org/grameen-founder-muhammad-yu
 
 Often described as the intersection of business and NGO, one could grasp the idea of social enterprise by opposition to other types of organizations. Although, the boundaries of these models are far more blurred in reality. 
 
-<img src="/images/stories/social-entrepreneurship/schema-2.png">
+<img src="/images/stories/social-entrepreneurship/schema-2.jpeg">
 
 <h3>One definition?</h3>
 
@@ -44,4 +44,4 @@ Saying that the social entrepreneurship field still lacks a unified definition i
 Other credit picture:
 [Jacqueline Novogratz](https://www.flickr.com/photos/acumenfund/3547183431/in/photolist-6psf42-6prSLp-6pwf67-6pw6f9-6prT4t-6pwbGC-6prVRR-6pwreh-6pwoUo-6pwfQm-6pw2KU-6prXmR-6ps1tP-6pwfuo-6ps2UH-6pwavA-6pwitq-6psgDg-6prZsM-6pwnrw-6pwjsm-6pwpdY-6pwgsu-6pw9h7-6pwnY1-6pwaTG-6pw4gW-6pwm57-6pwhah-6pwdob-6ps8sv-6pw38C-6pwkgh-6prVsn-6ps5RR-6ps5qR-6pwiYd-6psd7t-6pweGQ-6pwi3C-6pwkBJ-6pwjRE-6pw7Ry-6pwcvm-aBCj2U-aBzDjM-aBCj3Q-aBzDkR-a9G5Dq-5EpYjm)
 [Jim Fruchterman](https://www.flickr.com/photos/jrandomf/8989022560/in/photolist-eGk6eA-eGdVZn-eGdV7X-5qEx5-5Sz8X-cypkb-awcG7-viHRP-68NkL-68Nj2-eeGZwE-eeGZQY-eeBgYF-eeGZM9-eeBgHF-eeGZtS-eeBgV6-eeGZGS-eGdVrg-eGdWeK-eGk4W3-eQuFhG-eQi7Rp-em7HLs-em1VvT-em7KT9-em7JSu-em1EtD-8noNah-52heGH-52mtJq-52mtTY-52mu11-awcJb-9thbC7-d3jHQj-JeC51-eXgybX-Ch8jK-7TFf7q-ffrpyX-ffFCjQ-ffroUM-ndVkLH-6YwYFD-em7xqS-a6HVDg-5JbfHF-dSzrhY-dStNDn)
-[Jane Chen}(https://www.flickr.com/photos/tedconference/8509699266/in/photolist-bGcSpD-7Hkggg-7Y9RG2-542Uhg-547cum-7Y9Fy4-7Yd7Lu-8SuzW3-4KyWN8-4KDcqY-4KyVT8-8SuA5N-8SruQz-8SuzYL-8SuzRQ-8Srv2z-8SruUR-8SuzNW-8SuzXm-8Srv1p-8SuzHS-8SuA3S-8SuzLG-i7i4y2-7gkwfS-dXHR21-6vmMbn-i7i4ix-i7iCWH-dXYqRS-dXSKY8-dXYr7S-dXYqTy-dXSL1H-9qU72J-bAocQj-ck4iB3-6vmMfT-bAocRW-6vmMbT-r7Z6Ss-85EmN)
+[Jane Chen](https://www.flickr.com/photos/tedconference/8509699266/in/photolist-bGcSpD-7Hkggg-7Y9RG2-542Uhg-547cum-7Y9Fy4-7Yd7Lu-8SuzW3-4KyWN8-4KDcqY-4KyVT8-8SuA5N-8SruQz-8SuzYL-8SuzRQ-8Srv2z-8SruUR-8SuzNW-8SuzXm-8Srv1p-8SuzHS-8SuA3S-8SuzLG-i7i4y2-7gkwfS-dXHR21-6vmMbn-i7i4ix-i7iCWH-dXYqRS-dXSKY8-dXYr7S-dXYqTy-dXSL1H-9qU72J-bAocQj-ck4iB3-6vmMfT-bAocRW-6vmMbT-r7Z6Ss-85EmN)
