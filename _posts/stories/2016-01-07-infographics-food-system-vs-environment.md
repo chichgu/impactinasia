@@ -10,4 +10,4 @@ image:
 
 Concerned about environment but no idea how to make a difference? Maybe you could start by changing what is in your plate, here is why.
 
-<img src="/images/stories/infographics-food-system/food-system.png">
+<img src="/images/stories/infographics-food-system/food-system.jpg">
