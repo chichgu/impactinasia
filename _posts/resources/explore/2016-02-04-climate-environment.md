@@ -12,17 +12,17 @@ image:
 
 **Assessment of climate change in Asia**
 
-+ <a href="resources/explore/climate-environment/ADB-assessment-southasia-2014.pdf">ADB: Assessing the Costs of Climate Change and Adaptation in South Asia, 2014 </a>
-+ <a href="resources/explore/climate-environment/ADB-economics-cc-east-asia-2013.pdf">ADB: Economics of Climate Change in East Asia, 2013 </a>
-+ <a href="resources/explore/climate-environment/ADB-economics-cc-southeast-asia-2009.pdf">ADB: Economics of Climate Change in SouthEast Asia, 2009</a>
-+ <a href="resources/explore/climate-environment/IPCC-asia-2014.pdf">5th IPCC's report, Asia chapter, 2014</a>
-+ <a href="resources/explore/climate-environment/IPCC-asia-2007.pdf">4th IPCC's report, Asia chapter, 2007</a>
-+ <a href="resources/explore/climate-environment/Malaya-public-awareness-cc-asia-2012">University of Malaya: Public Awareness towards Global Climate Change: Asian Perspectives, 2012</a>
++ <a href="/resources/explore/climate-environment/ADB-assessment-south-asia-2014.pdf">ADB: Assessing the Costs of Climate Change and Adaptation in South Asia, 2014 </a>
++ <a href="/resources/explore/climate-environment/ADB-economics-cc-east-asia-2013.pdf">ADB: Economics of Climate Change in East Asia, 2013 </a>
++ <a href="/resources/explore/climate-environment/ADB-economics-cc-southeast-asia-2009.pdf">ADB: Economics of Climate Change in SouthEast Asia, 2009</a>
++ <a href="/resources/explore/climate-environment/IPCC-asia-2014.pdf">5th IPCC's report, Asia chapter, 2014</a>
++ <a href="/resources/explore/climate-environment/IPCC-asia-2007.pdf">4th IPCC's report, Asia chapter, 2007</a>
++ <a href="/resources/explore/climate-environment/Malaya-public-awareness-cc-asia-2012.pdf">University of Malaya: Public Awareness towards Global Climate Change: Asian Perspectives, 2012</a>
 
 **Global assessment of climate change**
 
-+ <a href="resources/explore/climate-environment/UNEP-impacts-consumption-prod-2010.pdf">UNEP: Assessing the Environmental Impacts of Consumption and Production, 2010</a>
-+ <a href="resources/explore/climate-environment/WorldBank-cc-poverty-2015.pdf">World Bank: Shock Waves, Managing the Impacts of Climate Change on Poverty, 2015</a>
++ <a href="/resources/explore/climate-environment/UNEP-impacts-consumption-prod-2010.pdf">UNEP: Assessing the Environmental Impacts of Consumption and Production, 2010</a>
++ <a href="/resources/explore/climate-environment/WorldBank-cc-poverty-2015.pdf">World Bank: Shock Waves, Managing the Impacts of Climate Change on Poverty, 2015</a>
 
 **Some interesting websites**
 
