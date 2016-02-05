@@ -26,7 +26,7 @@ She then went back to the consultancy industry to follow the career she studied 
 
 As she puts it “the social aspect gave me the courage to create a brand and the brand gave me the means to develop a social project”. She got trained on fashion design in a small Hong Kong school, after which she explored several NGOs in Cambodia. 
 
-<img src="/images/stories/kambodja/maly-and-sreymon.jpg">
+<img src="/images/stories/kambodja/sina-chani-PSE.jpg">
 
 Two organizations supporting poor children and their mothers were selected for a partnership. She spent almost a month with the women to train them on how to handcraft modern quality products made of leather, and combined with Khmer traditional fabric. 
 

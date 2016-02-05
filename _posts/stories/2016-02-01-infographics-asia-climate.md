@@ -7,7 +7,7 @@ author: Lucile Rogissart
 image:
   teaser: stories/infographics-asia-climate/teaser.jpg #recommended 400x250
   feature:  #recommended 1024x256
-  credit: Lucile Rogissart #name of the person or site you want to credit
+  credit: #name of the person or site you want to credit
   creditlink:  #url to their site or licensing
 ---
 
