@@ -41,6 +41,17 @@ image:
 + <a href="/resources/explore/sustainable-economy/industry/textile/T&F-textile-china-env-2009.pdf">Taylor and Francis: The Impact of Textile Industry on China's Environment, 2009</a>
 + <a href="/resources/explore/sustainable-economy/industry/textile/TextileExchange-textile-waste-2012.pdf">Textile Echange: Textile and Product Waste, 2012</a>
 
+**Waste**
+
++ <a href="/resources/explore/sustainable-economy/waste/J.Chin-waste-asia-2011.pdf">Responsible Research: Waste in Asia, 2011</a>
++ <a href="/resources/explore/sustainable-economy/waste/UNEP-state-sea-2004.pdf">UNEP: State of Waste Management in Southeast Asia, 2004</a>
++ <a href="/resources/explore/sustainable-economy/waste/UNEP-waste-2011.pdf">UNEP: Waste, Investnig in Energy and Resource Efficiency, 2011</a>
++ <a href="/resources/explore/sustainable-economy/waste/WBA-bioenergy-stats-2015.pdf">WBA: Global Bioenergy Statistics, 2015</a>
++ <a href="/resources/explore/sustainable-economy/waste/WorldBank-env-health-swm-2006.pdf">World Bank: Occupational and Environmental Health Issues of Solid Waste Management, 2006</a>
++ <a href="/resources/explore/sustainable-economy/waste/WorldBank-what-a-waste-2012.pdf">World Bank: What A Waste, 2012</a>
++ <a href="/resources/explore/sustainable-economy/waste/Elsevier-trends-informal-2013.pdf">Elsevier: Emerging Trends in Informal Sector Recycling in Developing and Transition Countries, 2013</a>
++ <a href="/resources/explore/sustainable-economy/waste/PPIAF-informal-developing-2008.pdf">GridLines: The Informal Recycling Sector in Developing Countries, 2008</a>
+
 <h3>Social Entrepreneurship</h3>
 
 + <a href="/resources/explore/sustainable-economy/se/SVCAsia-challenge-snapchot-2015.pdf">DBS-NUS Social Challenge Asia: A Look Back At 2015&2014, 2015</a>
