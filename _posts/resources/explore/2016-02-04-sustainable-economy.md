@@ -41,7 +41,22 @@ image:
 + <a href="/resources/explore/sustainable-economy/industry/textile/T&F-textile-china-env-2009.pdf">Taylor and Francis: The Impact of Textile Industry on China's Environment, 2009</a>
 + <a href="/resources/explore/sustainable-economy/industry/textile/TextileExchange-textile-waste-2012.pdf">Textile Echange: Textile and Product Waste, 2012</a>
 
+<h3>Social Entrepreneurship</h3>
 
++ <a href="/resources/explore/sustainable-economy/se/SVCAsia-challenge-snapchot-2015.pdf">DBS-NUS Social Challenge Asia: A Look Back At 2015&2014, 2015</a>
++ <a href="/resources/explore/sustainable-economy/se/BritishCouncil-vietnam-se-2012.pdf">British Council: Social Enterprise in Vietnam, Concept, Context and Policies, 2012</a>
++ <a href="/resources/explore/sustainable-economy/se/CSIP-vietnam-se-mapping-2011.pdf">CSIP: Final Report, Vietnam Social Enterprises Mapping Project, 2011</a>
++ <a href="/resources/explore/sustainable-economy/se/CUHK-se-hk-2014.pdf">CUHK: Research Study on the Social Enterprise Sector in Hong Kong, 2014</a>
++ <a href="/resources/explore/sustainable-economy/se/Chivas-success-se-2014.pdf">Chivas: Success in a Changing World, NEw Views on Social Entrepreneurship, 2014</a>
++ <a href="/resources/explore/sustainable-economy/se/FYSE-china-se-2012.pdf">FYSE: China Social Enterprise Report, 2012</a>
++ <a href="/resources/explore/sustainable-economy/se/Intellecap-india-se-2012.pdf">Intellecap: On the Path to Sustainability and Scale, A Study of India's Social Enterprise Landscape, 2012</a>
++ <a href="/resources/explore/sustainable-economy/se/NUS-philippines-se-2014.pdf">NUS-ACSPE: Social Entrepreneurship in Asia: Case Collection on Philippines, 2014</a>
++ <a href="/resources/explore/sustainable-economy/se/NUS-singapore-se-2014.pdf">NUS-ACSPE: Landscape of Social Enterprises in Singapore, 2014</a>
++ <a href="/resources/explore/sustainable-economy/se/SEWF-hk-se-evolution-2015.pdf">SEWF: Evolution of Hong Kong's Social Entrepreneurship, 2015</a>
 
-
-
++ <a href="/resources/explore/sustainable-economy/se/DDM-se-synthesis-2010.pdf">Peter A. Dacin, M. Tina Dacin, and Margaret Matear: Why We Don’t Need a New Theory and How We Move Forward From Here, 2010</a>
++ <a href="/resources/explore/sustainable-economy/se/Deloitte-purpose-driven-professional-2015.pdf">Deloitte Uniersity Press: The Purpose-Driven-Professional, 2015</a>
++ <a href="/resources/explore/sustainable-economy/se/NUS-asia-social-finance-2013.pdf">NUS-ACSPE: The Emerging Ecosystem of Entrepreneurial Social Finance in Asia, 2013</a>
++ <a href="/resources/explore/sustainable-economy/se/NUS-singapore-language-se-2014.pdf">NUS-ACSPE: Finding a Common Language for a Social Enterprises in Singapore, 2014</a>
++ <a href="/resources/explore/sustainable-economy/se/Stanford-case-for-definition-2007.pdf">Stanford Social Innovation Review: Social Entrepreneurship, the Case for Definition, 2012</a>
++ <a href="/resources/explore/sustainable-economy/se/TIM-se-def-boundaries-2012.pdf">Technology Innovation Management Review: Social Entrepreneurship, Definition and Boundaries, 2012</a>
