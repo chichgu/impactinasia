@@ -11,6 +11,6 @@ image:
   creditlink:  #url to their site or licensing
 ---
 
-Concerned about environment but no idea how to make a difference? Maybe you could start by changing what is in your plate, here is why.
+Don't really know what climate change actually means for Asia? Here are some insights.
 
 <img src="/images/stories/infographics-asia-climate/asia-climate.png">
