@@ -1,0 +1,342 @@
+/* ==========================================================================
+   Opening Page layout
+   ========================================================================== */
+
+
+$iia-brand-color: #36858E;
+
+.opening {
+    max-width: 60em;
+    font-family: $alt-font;
+
+    hr {
+        background: $iia-brand-color;
+        height: 2px;
+        width: 50%;
+        margin: 48px auto;
+    }    
+
+    hr:before {
+        display: none;
+    }
+}
+
+.opening section {
+    @include outer-container;
+
+    h3 {
+        font-size: 1em;
+        color: $iia-brand-color;
+        margin-bottom: 0.5em;
+    }
+
+    .column {
+        @include span-columns(6);        
+    }
+}
+
+/*
+   Header
+   ========================================================================== */
+.opening-header {
+    text-align: center;
+    border-width: 2px 0 2px 0;
+    border-color: #36858E;
+    border-style: solid;
+    margin: 16px 0;
+}
+
+.opening-title,
+.opening-purpose {
+    margin: 0;
+    padding: 0;
+    color: #404040;
+}
+
+.opening-purpose {
+    font-weight: normal;
+}
+
+.iia-logo {
+    margin: 0 auto;
+    display: block;
+}
+
+
+/*
+   Global Goals Grid Tiles
+   ========================================================================== */
+.goalsgrid {
+    overflow: hidden;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.goalsgrid__item {
+    float: left;
+    margin: 1px;
+    opacity: 0.2;
+
+    &.active {
+        opacity: 1;
+    }
+}
+
+/*
+   Opening Tags
+   ========================================================================== */
+.opening-tags {
+    font-family: $alt-font;
+    text-align: center;
+    margin: 16px 0;    
+}
+
+/*
+   Info Table
+   ========================================================================== */
+.opening-infotable {
+    font-family: $alt-font;
+    border-width: 2px 0 2px 2px;
+    border-style: solid;
+    border-color: $iia-brand-color;
+
+    h3 {
+        font-size: 1em;
+        margin: 0 0 8px 8px;
+    }
+
+    .column {
+        border-left: 2px solid $iia-brand-color;
+
+        &:first-child {
+            border: 0;
+        }
+    }
+
+    ul {
+        list-style-position: inside;
+        margin: 0;
+        padding: 0 0 0 8px;
+        overflow: hidden;
+    }
+
+    li {
+        font-size: 0.9em;
+    }
+
+    .skills,
+    .persona {
+        background: $iia-brand-color;
+        color: #FFFFFF;
+        margin-right: -1px;
+
+        h3 {
+            color: #FFFFFF;
+        }
+    }
+
+    .skills {
+        margin-bottom: 8px;
+    }
+}
+
+/*
+   Impact Scale
+   ========================================================================== */
+.impact-scale {
+    list-style: none;
+    margin: 32px 0 32px 0;
+    padding: 0;
+    overflow: hidden;
+
+    li {
+        float: left;
+        width: 25%;
+        text-align: center;
+        font-family: $alt-font;
+        color: $iia-brand-color;
+        opacity: 0.3;
+
+        &.active {
+            opacity: 1;
+        }
+    }
+
+    img {
+        display: block;
+        margin: 0 auto;
+        width: 90px;
+        height: 90px;
+    }
+}
+
+
+/*
+   Conditions
+   ========================================================================== */
+.conditions {
+    background: #D9E9EB;
+    font-family: $alt-font;
+    list-style: none;
+    margin-top: 0;
+    padding-top: 16px;
+    padding-left: 50px;
+
+    li {
+        position: relative;
+        min-height: 35px;
+        line-height: 1.5;
+    }
+
+    li:before {
+        display: block;
+        content: ' ';
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        left: -40px;
+        background-size: cover;
+    }
+}
+
+.conditions__money:before    { background: url(/images/openings/conditions/money.png); }
+.conditions__time:before     { background: url(/images/openings/conditions/time.png); }
+.conditions__length:before   { background: url(/images/openings/conditions/length.png); }
+.conditions__location:before { background: url(/images/openings/conditions/location.png); }
+
+
+/*
+   Job Type
+   ========================================================================== */
+
+.jobtype {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+
+    li {
+        font-family: $alt-font;
+        font-size: 0.8em;
+        color: $iia-brand-color;        
+        overflow: hidden;
+        min-height: 40px;
+        line-height: 1.1;
+    }
+
+    span {
+        float: left;
+        width: 20%;
+        display: block;
+        text-align: right;
+        word-break: break-word;
+    }
+
+    span:last-child {
+        text-align: left;
+    }
+
+    .scale {
+        float: left;
+        width: 55%;
+        height: 20px;
+        background: #C4DDDF;
+        margin: 4px 2%;
+        position: relative;
+    }
+
+    .scale__marker {
+        position: absolute;
+        background: $iia-brand-color; 
+        width: 10px;
+        height: 28px;
+        top: -4px;
+    }
+}
+
+/*
+   More details
+   ========================================================================== */
+.moredetails {
+    font-family: $alt-font;    
+}
+
+.moredetails__body p {
+    font-size: 1em;
+    line-height: 1.25;
+}
+
+/*
+   Apply
+   ========================================================================== */
+section.apply {
+    @include fill-parent();
+    @include row(table);    
+    border: 2px solid $iia-brand-color;
+    line-height: 1.2;    
+    margin-bottom: 32px;
+
+    h3 {
+        @include span-columns(3);
+        background: $iia-brand-color;
+        color: #FFFFFF !important;
+        margin: 0;
+        padding: 0px;
+        text-align: center;
+        font-size: 2em;
+        font-weight: 400;
+        letter-spacing: 6px;
+        vertical-align: middle;
+    }
+}
+
+.apply__instructions{
+    @include span-columns(7);
+    padding: 8px;
+    vertical-align: top;
+    font-size: 0.95em;
+}
+
+.apply__schedule {
+    @include span-columns(2);
+    padding: 8px;
+    text-align: right;
+    font-size: 0.9em;
+    vertical-align: top;
+}
+
+/*
+   Organization
+   ========================================================================== */
+.organization {
+    @include fill-parent();
+    @include row(table);    
+}
+
+.organization__logo {
+    @include span-columns(1);
+}
+
+.organization__titles {
+    @include span-columns(2);
+    vertical-align: top;
+    padding: 8px;
+}
+
+.organization__title {
+    display: block;
+    font-weight: bold;    
+}
+
+.organization__type {
+    display: block;
+}
+
+.organization__description {
+    @include span-columns(9);
+    border: 2px solid $iia-brand-color;
+    padding: 8px;
+    vertical-align: top;
+    line-height: 1.1;
+}

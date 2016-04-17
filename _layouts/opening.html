@@ -1,0 +1,177 @@
+---
+layout: default
+---
+
+{% assign opening = page.opening %}
+
+<div id="main" role="main">
+  <article class="wrap opening" itemscope itemtype="http://schema.org/Article">
+    <img class="iia-logo" src="/images/logo_iia.png" width="100" height="100">
+
+    <header class="opening-header">
+      <h1 class="opening-title">{{ page.title }}</h1>
+      <h2 class="opening-purpose">{{ opening.purpose }}</h2>
+    </header>
+
+    <!-- Global Goals Grid -->
+      <ul class="goalsgrid">
+        {% for i in (1..17) %}
+          <li class="goalsgrid__item {% if opening.global_goals contains i %}active{% endif %}">
+            <img src="/images/openings/globalgoals/tile-{{i}}.png" width="100" height="100">
+          </li>
+        {% endfor %}
+
+        <li class="goalsgrid__item active">
+          <img src="/images/openings/globalgoals/tile-globalgoals.png" width="100" height="100">
+        </li>
+      </ul>
+
+    <!-- Hashtags -->    
+    <div class="opening-tags">{{ opening.tags }}</div>
+
+    <!-- Activities -->
+      <section class="opening-infotable">
+        <div class="column activities">
+          <h3>Key activities</h3>
+          <ul>
+            {% for item in opening.key_activities %}
+              <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="column">
+          <div class="skills">
+            <h3>Skills</h3>
+            <ul>
+              {% for item in opening.skills %}
+                <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="persona">
+            <h3>Persona</h3>
+            <ul>
+              {% for item in opening.persona %}
+                <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </section>
+
+    <!-- Impact Scale -->
+      <ul class="impact-scale">
+        <li class="{% if opening.impact_scale contains 1 %}active{% endif %}">
+          <img src="/images/openings/impactscale/direct-good.png">
+          Direct good/service providing
+        </li>
+        <li class="{% if opening.impact_scale contains 2 %}active{% endif %}">
+          <img src="/images/openings/impactscale/scaled-good.png">
+          Scaled good/service providing
+        </li>
+        <li class="{% if opening.impact_scale contains 3 %}active{% endif %}">
+          <img src="/images/openings/impactscale/system-changing.png">
+          System changing
+        </li>
+        <li class="{% if opening.impact_scale contains 4 %}active{% endif %}">
+          <img src="/images/openings/impactscale/behaviour-changing.png">
+          Behaviour changing
+        </li>
+      </ul>
+
+    <!-- Conditions/Job Type -->
+      <section>
+        <ul class="column conditions">
+          <li class="conditions__money">{{ opening.conditions.money }}</li>
+          <li class="conditions__time">{{ opening.conditions.time }}</li>
+          <li class="conditions__length">{{ opening.conditions.length }}</li>
+          <li class="conditions__location">{{ opening.conditions.location }}</li>
+        </ul>
+
+        <div class="column">
+          <ul class="jobtype">
+            <li>
+              {% assign scaleVal = opening.job_type.analysis_innovation | times:10 %}
+              {% if scaleVal > 95 %}{% assign scaleVal = 95 %}{% endif %}
+              <span>Analysis</span>
+              <div class="scale"><div class="scale__marker" style="left: {{ scaleVal }}%"></div></div>
+              <span>Innovation</span>
+            </li>
+
+            <li>
+              {% assign scaleVal = opening.job_type.implement_strategy | times:10 %}
+              {% if scaleVal > 95 %}{% assign scaleVal = 95 %}{% endif %}
+              <span>Direct Implementation</span>
+              <div class="scale"><div class="scale__marker" style="left: {{ scaleVal }}%"></div></div>
+              <span>Strategic Planning</span>
+            </li>
+
+            <li>
+              {% assign scaleVal = opening.job_type.autonomous_supervised | times:10 %}
+              {% if scaleVal > 95 %}{% assign scaleVal = 95 %}{% endif %}            
+              <span>Autonomous</span>
+              <div class="scale"><div class="scale__marker" style="left: {{ scaleVal }}%"></div></div>
+              <span>Supervised</span>
+            </li>        
+
+            <li>
+              {% assign scaleVal = opening.job_type.external_internal | times:10 %}
+              {% if scaleVal > 95 %}{% assign scaleVal = 95 %}{% endif %}            
+              <span>External relationships</span>
+              <div class="scale"><div class="scale__marker" style="left: {{ scaleVal }}%"></div></div>
+              <span>Internal relationships</span>
+            </li>  
+
+            <li>
+              {% assign scaleVal = opening.job_type.desk_field | times:10 %}
+              {% if scaleVal > 95 %}{% assign scaleVal = 95 %}{% endif %}            
+              <span>Desk work</span>
+              <div class="scale"><div class="scale__marker" style="left: {{ scaleVal }}%"></div></div>
+              <span>Field work</span>
+            </li>                              
+          </ul>
+        </div>
+      </section>
+
+      <!-- More details -->
+        <section class="moredetails">
+          <h3>More details</h3>
+          <div class="moredetails__body">
+            {{ content }}
+          </div>
+        </section>
+
+        <hr/>
+
+      <!-- More details -->
+        <section class="apply">
+          <h3>APPLY</h3>
+          <div class="apply__instructions">
+            {{ opening.apply.instructions }}
+          </div>
+          <div class="apply__schedule">
+            Application schedule<br/>
+            Start: {{ opening.apply.schedule_start }}<br/>
+            End: {{ opening.apply.schedule_end }}
+          </div>
+        </section>
+
+      <!-- Organisation -->
+        <section class="organization">
+          <div class="organization__logo">
+            <img src={{ opening.organization.logo }} />
+          </div>
+
+          <div class="organization__titles">
+            <span class="organization__title">{{ opening.organization.title }}</span>
+            <span class="organization__type">{{ opening.organization.type }}</span>
+          </div>
+
+          <div class="organization__description">
+            {{ opening.organization.description }}
+          </div>
+        </section>      
+  </article>
+</div>
+
