@@ -1,12 +1,19 @@
 ---
-layout: default
+layout: default 
 ---
 
 {% assign opening = page.opening %}
 
 <div id="main" role="main">
   <article class="wrap opening" itemscope itemtype="http://schema.org/Article">
-    <img class="iia-logo" src="/images/logo_iia.png" width="100" height="100">
+		{% if page.image.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		{% endif %}
 
     <header class="opening-header">
       <h1 class="opening-title">{{ page.title }}</h1>
@@ -134,15 +141,13 @@ layout: default
         </div>
       </section>
 
-      <!-- More details -->
-        <section class="moredetails">
-          <h3>More details</h3>
-          <div class="moredetails__body">
+      <!-- Summary -->
+        <section class="summary">
+	  <h3>Summary</h3>
+          <div class="summary__body">
             {{ content }}
           </div>
         </section>
-
-        <hr/>
 
       <!-- More details -->
         <section class="apply">
