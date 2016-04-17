@@ -1,9 +1,16 @@
 ---
 layout: opening
-title: Business Plan Developer
+title: "Business Plan Developer"
+categories: openings
+image:
+  teaser: openings/default_teaser_400x250.jpg #recommended 400x250
+  feature: openings/default_feature_1024x256.jpg #recommended 1024x256
+  description: "Impact Makers Wanted!" 
+  credit: #name of the person or site you want to credit
+  creditlink: #url to their site or licensing
 opening:
   purpose: Ensure a financially strategy for a job board in social impact
-  global_goals: [1,3,8,9,15]
+  global_goals: [8,9,11,17]
   tags: '#SocialEnterprise #HR #BusinessModel #Startup #JobBoard #Strategy'
   key_activities:
   - run market studies
@@ -36,7 +43,7 @@ opening:
   organization:
     title: Impact In Asia
     type: social enterprise
-    logo: /openings/sample_logo.png
+    logo: /images/impact_in_asia_120x120.png
     description: Impact in Asia is an online platform that connect individuals and organization who want to have a positive impact.
 ---
 
