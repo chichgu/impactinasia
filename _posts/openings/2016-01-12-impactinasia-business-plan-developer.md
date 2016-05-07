@@ -9,7 +9,7 @@ image:
   credit: #name of the person or site you want to credit
   creditlink: #url to their site or licensing
 opening:
-  purpose: Ensure a financially strategy for a job board in social impact
+  purpose: Ensure a financially sustainable strategy for a job board in social impact
   global_goals: [8,9,11,17]
   tags: '#SocialEnterprise #HR #BusinessModel #Startup #JobBoard #Strategy'
   key_activities:
@@ -24,7 +24,7 @@ opening:
   persona:
   - Interested in social entrepreneurship and HR
   - curious, dynamic and rigorous
-  impact_scale: [1,3]
+  impact_scale: [3]
   conditions:
     money: non remunerated intership
     time: part-time
