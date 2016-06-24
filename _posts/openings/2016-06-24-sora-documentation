@@ -1,0 +1,46 @@
+---
+layout: opening
+title: "Documentation Volunteer"
+categories: openings
+image:
+  teaser: openings/default_teaser_400x250.jpg #recommended 400x250
+  feature: openings/default_feature_1024x256.jpg #recommended 1024x256
+  description: "Impact Makers Wanted!" 
+  credit: Juan Dalisay Jr.
+  creditlink: http://sorasystem.weebly.com/opportunities.html
+opening:
+  purpose: Translate Vietnamese documents into English and vice versa
+  global_goals: [1,2,8,10,11,12,17]
+  tags: '#SocialEnterprise #EconomicSystems #Startup'
+  key_activities:
+  - translate documents from Vietnamese to English and vice versa
+  - create the content and documentation for the SORA Global startup
+  skills:
+  - English writing and communication
+  persona:
+  - interested in social entrepreneurship and passionate in learning English (We will teach you English in return!)
+  - hardworking
+  impact_scale:	[1,3]
+  conditions:
+    money: a small allowance for lunch and transportation
+    time: part-time
+    length: 1.5 months at 4 hours from Monday to Friday (negotiable)
+    location: 7th Floor, 24 Ly Thuong Kiet Street, Hoan Kiem, Hanoi, Vietnam (in Vietnam Silicon Valley)
+  job_type:
+    analysis_innovation: 9
+    implement_strategy: 2
+    autonomous_supervised: 8
+    external_internal: 8
+    desk_field: 9
+  apply:
+    instructions: Send an email with your CV to soraplatform@gmail.com
+    schedule_start: 1/07/2016
+    schedule_end: 15/08/2016
+  organization:
+    title: SORA Global
+    type: startup
+    logo:
+    description: SORA Global is a new startup being supported by Vietnam Silicon Valley. We aim to be a money-less trading system, trading products for products or services for services. In return for volunteering, we will train the volunteer in English and essential internet skills such as coding, technical writing, or IT processes. Check out our site at http://sorasystem.weebly.com/opportunities.html
+---
+
+This is a social startup environment. You will work in a very autonomous way and you will directly contribute towards shaping the business. Our location is in Vietnam Silicon Valley, one of the main accelerators of Vietnam'startups. Your work will be used to build the content and documentation for SORA Global as we prepare to get investors.
